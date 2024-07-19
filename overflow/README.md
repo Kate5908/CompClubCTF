@@ -1,0 +1,1 @@
+Rocket application, you'll need the nightly version (idk why). To build, `cargo build` and `cargo run`
